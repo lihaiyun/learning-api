@@ -28,7 +28,7 @@ app.use("/file", fileRoute);
 const db = require('./models');
 db.sequelize.sync({ alter: true })
     .then(() => {
-        let port = process.env.APP_PORT;
+        let port = process.env.APP_PORT || 8080;
         app.listen(port, () => {
             console.log(`⚡ Sever running on http://localhost:${port}`);
         });
