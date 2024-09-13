@@ -13,4 +13,3 @@ public/uploads/*
 
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
-.ebextensions/*
