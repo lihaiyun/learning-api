@@ -1,0 +1,17 @@
+# dependencies
+node_modules
+
+# environment
+.env
+
+# Mac OS
+.DS_Store
+
+# uploads
+public/uploads/*
+!public/uploads/README.md
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
