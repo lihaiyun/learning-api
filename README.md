@@ -1,5 +1,7 @@
 # Learning API
 
+[Learning App](http://nyp-learning-app-dev.s3-website-ap-southeast-1.amazonaws.com){:target="_blank"}
+
 ## Environment Variables:
 - APP_PORT = 8080
 - APP_SECRET = 013720de-bd04-40b2-9a8c-ca625c831265
