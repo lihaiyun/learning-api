@@ -1,4 +1,4 @@
-# learning-api
+# Learning API
 
 ## Environment Variables:
 - APP_PORT = 8080
