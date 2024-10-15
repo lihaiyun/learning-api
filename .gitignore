@@ -7,10 +7,6 @@ node_modules
 # Mac OS
 .DS_Store
 
-# uploads
-public/uploads/*
-!public/uploads/README.md
-
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
 .ebextensions/*
