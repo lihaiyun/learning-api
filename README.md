@@ -2,7 +2,7 @@
 
 ## Environment Variables:
 - APP_PORT = 8080
-- APP_SECRET = 013720de-bd04-40b2-9a8c-ca625c831265
+- APP_SECRET = <app_secret>
 - CLIENT_URL = http://nyp-learning-app-dev.s3-website-ap-southeast-1.amazonaws.com
 - DB_HOST = <database-id>.<random-id>.ap-southeast-1.rds.amazonaws.com
 - DB_NAME = learning_dev
